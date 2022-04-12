@@ -1,3 +1,3 @@
 # kakaotalk clone coding
 
-css got so much better
+html & css got so much better
